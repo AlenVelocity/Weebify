@@ -5,7 +5,7 @@
 # Weebify
 > Flutter App to get Anime and Manga Details
 
-<img src='./.github/assets/B.png' height=265> <img src='./.github/assets/A.png' height=265> <img src='./.github/assets/C.png' height=265> 
+<img src='./.github/assets/B.png' height=420> <img src='./.github/assets/A.png' height=420> <img src='./.github/assets/C.png' height=420> 
 
 </div>
 
