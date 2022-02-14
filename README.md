@@ -39,3 +39,5 @@ flutter build <apk|appbundle|aar|bundle|web|windows>
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [Online Documentation](https://flutter.dev/docs)
+
+This Project uses [Jikan.moe](https://jikan.moe/) to get the anime and manga details.
